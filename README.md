@@ -13,7 +13,7 @@ I'm a passionate **Machine Learning Enthusiast** from Egypt, diving deep into th
 - 🔭 Currently working on **Order Processing Systems & ML Projects**
 - 🌱 Learning **Machine Learning, Deep Learning & Data Science**
 - 💬 Ask me about **Python, ML Algorithms, Data Analysis**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **sheroukwaheed2004@gmail.com**
 - ⚡ Fun fact: **I love turning data into insights**
 
 ## 🛠️ Tech Stack
