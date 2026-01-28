@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Sherouk+Yakout;Machine+Learning+Enthusiast;Data+Science+Explorer;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Sherouk+Yakout; Machine+Learning+Enthusiast;Data+Science+Explorer;Always+Learning" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 I'm a passionate **Machine Learning Enthusiast** from Egypt, diving deep into the world of AI and data science to build intelligent solutions.
 
 - 🔭 Currently working on **Order Processing Systems & ML Projects**
-- 🌱 Learning **Machine Learning, Deep Learning & Data Science**
+- 🌱 Learning **Machine Learning & Data Science**
 - 💬 Ask me about **Python, ML Algorithms, Data Analysis**
 - 📫 Reach me at **sheroukwaheed2004@gmail.com**
 - ⚡ Fun fact: **I love turning data into insights**
@@ -22,7 +22,6 @@ I'm a passionate **Machine Learning Enthusiast** from Egypt, diving deep into th
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -37,8 +36,6 @@ I'm a passionate **Machine Learning Enthusiast** from Egypt, diving deep into th
 ### Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -46,7 +43,6 @@ I'm a passionate **Machine Learning Enthusiast** from Egypt, diving deep into th
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 </div>
 
@@ -61,39 +57,13 @@ I'm a passionate **Machine Learning Enthusiast** from Egypt, diving deep into th
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherouk-yakout&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sherouk-yakout&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sherouk-yakout&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/sherouk-waheed-)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheroukwaheed2004@gmail.com)
 
 </div>
 
----
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  
-### 💻 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-Made with ❤️ by Sherouk Yakout
-
-</div>
